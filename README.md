@@ -16,5 +16,6 @@ This works on an Android-based platform. "AR Furniture App" that focuses on Visu
 <p float="left">
   <img src="https://github.com/manavshah123/AR_Furniture_App/blob/main/op1.png" width="250" />
   <img src="https://github.com/manavshah123/AR_Furniture_App/blob/main/op2.png" width="250" /> 
-  <img src="https://github.com/manavshah123/AR_Furniture_App/blob/main/op2.png" width="250" />
+  <img src="https://github.com/manavshah123/AR_Furniture_App/blob/main/op3.png" width="250" />
+  <img src="https://github.com/manavshah123/AR_Furniture_App/blob/main/op4.png" width="250" />
 </p>
