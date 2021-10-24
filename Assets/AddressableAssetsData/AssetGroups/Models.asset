@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b7e3bd33238947d48aafe2e6a23da8ac
+  m_SerializeEntries:
+  - m_GUID: b95826f39aa91df40ab47734c5e32f8a
+    m_Address: Assets/AddressableAssets/Items/Table.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: 921ec40f6bf38da47a772869cb9c6b98
+    m_Address: Assets/AddressableAssets/Items/sofa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: 5fdb5c04709e90f4d828c17a2dde0401
+    m_Address: Assets/AddressableAssets/Items/Bed.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: 879d47389a04a5d40a2ae679ad6471f2
+    m_Address: Assets/AddressableAssets/Items/Chair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: 6f85d70c1df83e1498460f46a7a8b41b
+    m_Address: Assets/AddressableAssets/Items/Chair 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: a768e5f6e7800a94c86a738eed36d542
+    m_Address: Assets/AddressableAssets/Items/Studytable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: b9ca820950c30ec41bbcc2f21596ae8d
+    m_Address: Assets/AddressableAssets/Items/stylish chair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cdcbbb2ffef72ad4f9a1f8aed002f28f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e92dd98e3dab951409210eb9af2df7e7, type: 2}
+    - {fileID: 11400000, guid: 7fad848a80318bd4da5fd7a311fa63c5, type: 2}
