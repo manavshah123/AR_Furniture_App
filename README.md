@@ -13,4 +13,4 @@ This works on an Android-based platform. "AR Furniture App" that focuses on Visu
 <H1>Screenshot
 <br/><br/>
   
-<img src= "https://github.com/manavshah123/AR_Furniture_App/blob/main/op1.png" size=180>
+<img src= "https://github.com/manavshah123/AR_Furniture_App/blob/main/op1.png" size="180">
