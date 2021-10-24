@@ -4,6 +4,7 @@ This works on an Android-based platform. "AR Furniture App" that focuses on Visu
 
 <br/>
 
-<h2> Video Demo </h2>
+Video Demo 
+
 [![Watch the video](https://img.youtube.com/vi/JIKXt7rQke8/maxresdefault.jpg)](https://youtu.be/JIKXt7rQke8)
 
